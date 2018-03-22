@@ -1,6 +1,6 @@
 {
   "name": "react-native-nativeimagemoduleexample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my Android RN native module demo",
   "main": "index.js",
   "scripts": {
