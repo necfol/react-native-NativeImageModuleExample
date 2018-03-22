@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/scofield/.android/build-cache/5f457a0640cd3e8f1588d23605e4ff223f781f07/output/res/anim/catalyst_push_up_in.xml"
+    }
+]

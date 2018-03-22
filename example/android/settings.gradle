@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-nativeimagemoduleexample'
+project(':react-native-nativeimagemoduleexample').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-nativeimagemoduleexample/android')
+
+include ':app'

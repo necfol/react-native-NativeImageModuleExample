@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/scofield/.android/build-cache/10e5506b7a2b655e3681d4d6c0fc338bb9715f4c/output/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/scofield/.android/build-cache/8a9fc722d26c447d8c39fffb95a22cad3853935c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/scofield/.android/build-cache/8a9fc722d26c447d8c39fffb95a22cad3853935c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/scofield/.android/build-cache/8a9fc722d26c447d8c39fffb95a22cad3853935c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/scofield/focus/newcrovapp/androidtest/example/android/nativeimageexample/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/scofield/.android/build-cache/8a9fc722d26c447d8c39fffb95a22cad3853935c/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

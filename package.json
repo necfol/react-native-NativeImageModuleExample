@@ -1,0 +1,19 @@
+{
+  "name": "react-native-nativeimagemoduleexample",
+  "version": "1.0.0",
+  "description": "my Android RN native module demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necfol/react-native-NativeImageModuleExample.git"
+  },
+  "author": "Necfol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necfol/react-native-NativeImageModuleExample/issues"
+  },
+  "homepage": "https://github.com/necfol/react-native-NativeImageModuleExample#readme"
+}
